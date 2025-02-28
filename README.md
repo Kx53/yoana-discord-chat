@@ -11,7 +11,7 @@ AI Discord Bot using **Discord.js**, **Node.js**, **JavaScript**, and **OpenAI A
 ### 1. Clone this repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/yoana-discord-chat.git
+git clone https://github.com/Kx53/yoana-discord-chat.git
 ```
 
 ### 2. Create a `.env` file
